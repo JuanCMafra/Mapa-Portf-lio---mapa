@@ -1,0 +1,10 @@
+body { 
+  font-family: Arial; 
+  background: rgba(128, 128, 128, 0.262); 
+  padding: 60px; 
+}
+
+textarea, input{
+  display: flex;
+  gap: 1rem;
+}

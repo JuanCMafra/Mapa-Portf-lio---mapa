@@ -1,0 +1,19 @@
+body { 
+  font-family: Arial; 
+  background: rgb(16, 17, 77); 
+  padding: 60px; 
+}
+a{
+  color: inherit ;
+}
+h2{
+  color: azure;
+}
+
+h1{
+  color: azure;
+}
+
+p{
+  color: blanchedalmond;
+}

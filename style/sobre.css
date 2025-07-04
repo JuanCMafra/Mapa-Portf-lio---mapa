@@ -1,0 +1,16 @@
+body { 
+  font-family: Arial; 
+  background:rgba(0, 0, 0, 0.788); 
+  padding: 60px; 
+}
+
+.box {
+  border-color:white;
+}
+p{
+  text-align: justify;
+  color: aliceblue;
+}
+h1{
+  color: aliceblue;
+}
